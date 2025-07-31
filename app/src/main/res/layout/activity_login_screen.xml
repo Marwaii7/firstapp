@@ -44,6 +44,7 @@
             android:textColorHint="@android:color/holo_blue_bright"
             android:textColorLink="@android:color/holo_blue_bright"
             android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/editTextTextPassword"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.535"
             app:layout_constraintStart_toStartOf="parent"
