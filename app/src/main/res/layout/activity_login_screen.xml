@@ -102,7 +102,7 @@
             app:layout_constraintHorizontal_bias="0.496"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
-            app:layout_constraintVertical_bias="0.551"
+            app:layout_constraintVertical_bias="0.548"
             app:rippleColor="#F0EFEF"
             app:strokeColor="#FDFDFD" />
 
